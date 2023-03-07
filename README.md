@@ -1,5 +1,5 @@
-# ETL-Pipeline-with-SQL-and-Python-Song-data-in-mock-Spotify-Database
-This repository includes Python scripts and a Jupyter Notebook that create and execute an ETL pipeline for a Mock Spotify database.
+# ETL-Pipeline-with-SQL-and-Python-Song-data-in-mock-music-streaming-database
+This repository includes Python scripts and a Jupyter Notebook that create and execute an ETL pipeline for a mock music streaming service database.
 
 Short description of files included in the repository:
   - data: braching folder containing log and data files (json format)
